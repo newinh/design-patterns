@@ -26,7 +26,10 @@ Strategy Pattern
 
 **디자인 원칙**
 
-* 클래스는 확장에 대해서는 열려 있어야 하지만 코드 변경에 대해서는 닫혀 있어야 한다: OCP(Open-Closed Principle)
+* 클래스는 확장에 대해서는 열려 있어야 하지만 코드 변경에 대해서는 닫혀 있어야 한다: *OCP(Open-Closed Principle)*
 
 ### Chapter 4. Factory  pattern
 
+**디자인 원칙**
+
+* 추상화된 것에 의존하도록 만들어라. 구상클래스에 의존하도록 만들지 않도록 한다: *의존성 뒤집기 원칙(Dependency Inversion Principle)*
