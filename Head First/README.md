@@ -37,3 +37,4 @@ Strategy Pattern
 
 ### Chapter 5. Singleton
 
+### Chapter 6. Command Pattern
