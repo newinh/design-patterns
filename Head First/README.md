@@ -33,3 +33,10 @@ Strategy Pattern
 **디자인 원칙**
 
 * 추상화된 것에 의존하도록 만들어라. 구상클래스에 의존하도록 만들지 않도록 한다: *의존성 뒤집기 원칙(Dependency Inversion Principle)*
+
+
+### Chapter 5. Singleton
+
+**디자인 원칙**
+
+* 
