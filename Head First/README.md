@@ -37,6 +37,3 @@ Strategy Pattern
 
 ### Chapter 5. Singleton
 
-**디자인 원칙**
-
-* 
