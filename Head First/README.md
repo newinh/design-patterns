@@ -39,3 +39,5 @@ Strategy Pattern
 
 ### Chapter 6. Command Pattern
 요청 내역을 객체로 캡슐화하여 클라이언트를 서로 다른 요청 내역에 따라 매개변수화 할 수 있다. 요청을 큐에 저장하거나 로그로 기록할 수도 있고 작업취소 기능을 지원할 수도 있다.
+
+### Chapter 7. Adapter Pattern
