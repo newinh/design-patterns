@@ -46,3 +46,5 @@ Strategy Pattern
 
 최소 지식 원칙 - 정말 친한 친구하고만 얘기하라.
 
+### Chapter 8. Template Method Pattern
+
