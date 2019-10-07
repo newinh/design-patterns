@@ -48,3 +48,4 @@ Strategy Pattern
 
 ### Chapter 8. Template Method Pattern
 
+### Chapter 9. Iterator & Composite Pattern
