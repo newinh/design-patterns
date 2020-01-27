@@ -49,3 +49,7 @@ Strategy Pattern
 ### Chapter 8. Template Method Pattern
 
 ### Chapter 9. Iterator & Composite Pattern
+
+**디자인 원칙**
+
+클래스를 바꾸는 이유는 한 가지 뿐이어야 한다.
